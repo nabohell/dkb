@@ -17,7 +17,8 @@ navigate to project directory and run the following
 
 The REST API to the solution app is described below.
 
-###API docs 
+###API docs
+
     localhost:9001/swagger-ui.html
 
 ### Deposit money into a specified bank account
